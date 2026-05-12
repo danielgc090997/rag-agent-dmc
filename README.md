@@ -39,8 +39,8 @@ Key components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/agent-dmc.git
-cd agent-dmc
+git clone https://github.com/danielgc090997/rag-agent-dmc.git
+cd rag-agent-dmc
 ```
 
 2. Install dependencies:
